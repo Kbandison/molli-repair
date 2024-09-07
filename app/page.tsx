@@ -1,5 +1,5 @@
 import Goal from "@/components/Goal";
-import Grid from "@/components/Grid";
+// import Grid from "@/components/Grid";
 import { Grid2 } from "@/components/Grid2";
 import Hero from "@/components/Hero";
 import Hours from "@/components/Hours";

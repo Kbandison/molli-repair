@@ -2,11 +2,11 @@ import React from "react";
 
 const BorderButton = ({
   title,
-  icon,
-  position,
-  handleClick,
-  otherClasses,
-}: {
+}: // icon,
+// position,
+// handleClick,
+// otherClasses,
+{
   title: string;
   icon?: React.ReactNode;
   position: string;

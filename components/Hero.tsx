@@ -1,8 +1,7 @@
 import React from "react";
-import { Spotlight } from "./ui/Spotlight";
+// import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerate";
 import BorderButton from "./ui/BorderButton";
-import { Image } from "next/image";
 
 const Hero = () => {
   return (
