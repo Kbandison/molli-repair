@@ -1,10 +1,13 @@
+import Footer from "@/components/Footer";
 import Goal from "@/components/Goal";
+import { Goals } from "@/components/Goals";
 // import Grid from "@/components/Grid";
 import { Grid2 } from "@/components/Grid2";
 import Hero from "@/components/Hero";
 import Hours from "@/components/Hours";
 import { FloatingNav } from "@/components/ui/FloatingNav";
 import { FaHome } from "react-icons/fa";
+import { LuGoal, LuPhone, LuWrench } from "react-icons/lu";
 
 export default function Home() {
   return (
@@ -13,17 +16,18 @@ export default function Home() {
         <FloatingNav
           navItems={[
             { name: "Home", link: "/", icon: <FaHome /> },
-            { name: "Services", link: "#about", icon: <FaHome /> },
-            { name: "Goals", link: "#goals", icon: <FaHome /> },
-            { name: "Hours", link: "#hours", icon: <FaHome /> },
-            { name: "Contact Me", link: "#contact", icon: <FaHome /> },
+            { name: "Services", link: "#about", icon: <LuWrench /> },
+            { name: "Goals", link: "#goals", icon: <LuGoal /> },
+            { name: "Hours/Contact", link: "#hours", icon: <LuPhone /> },
           ]}
         />
         <Hero />
         <Grid2 />
         {/* <Grid /> */}
-        <Goal />
+        {/* <Goal /> */}
+        <Goals />
         <Hours />
+        <Footer />
       </div>
     </main>
   );
