@@ -18,7 +18,7 @@ export function Goals() {
         <Card
           title="Provide Reliable and Efficient Repairs:"
           icon={<AceternityIcon order="Goal 1" />}
-          description="My aim is to deliver high-quality repair services that extend the life of your appliances. I focus on accurately diagnosing issues and providing cost-effective solutions to get your appliances back in working order as quickly as possible."
+          description="Our aim is to deliver high-quality repair services that extend the life of your appliances. We focus on accurately diagnosing issues and providing cost-effective solutions to get your appliances back in working order as quickly as possible."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -28,7 +28,7 @@ export function Goals() {
         <Card
           title="Ensure Customer Satisfaction and Trust:"
           icon={<AceternityIcon order="Goal 2" />}
-          description="I strive to build long-term relationships with my clients by offering transparent communication, fair pricing, and exceptional customer service. My goal is to become your go-to professional for all appliance repair needs, ensuring you feel confident and satisfied with the work provided."
+          description="We strive to build long-term relationships with our clients by offering transparent communication, fair pricing, and exceptional customer service. Our goal is to become your go-to professional for all appliance repair needs, ensuring you feel confident and satisfied with the work provided."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -45,7 +45,7 @@ export function Goals() {
         <Card
           title="Offer Preventive Maintenance Advice:"
           icon={<AceternityIcon order="Goal 3" />}
-          description="Beyond repairs, I aim to educate my clients on best practices for maintaining their appliances to prevent future breakdowns. This includes providing tips on regular care, usage guidelines, and recognizing early signs of potential problems."
+          description="Beyond repairs, we aim to educate our clients on best practices for maintaining their appliances to prevent future breakdowns. This includes providing tips on regular care, usage guidelines, and recognizing early signs of potential problems."
         >
           <CanvasRevealEffect
             animationSpeed={3}

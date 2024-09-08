@@ -25,11 +25,10 @@ const Hero = () => {
             words="Turning Appliance Headaches into Seamless Experiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            I&apos;m Lorenzo Molli, an Appliance Repair Professional, based in
-            NY
+            Allset Appliance Repair, Appliance Professionals based in NY
           </p>
           <a href="#about">
-            <BorderButton title="Learn More About Me" position="left" />
+            <BorderButton title="Learn More About Us" position="left" />
           </a>
         </div>
       </div>
