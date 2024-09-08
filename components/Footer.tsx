@@ -1,5 +1,5 @@
 import React from "react";
-import { ImFacebook } from "react-icons/im";
+// import { ImFacebook } from "react-icons/im";
 
 const Footer = () => {
   return (

@@ -1,5 +1,5 @@
 import Footer from "@/components/Footer";
-import Goal from "@/components/Goal";
+// import Goal from "@/components/Goal";
 import { Goals } from "@/components/Goals";
 // import Grid from "@/components/Grid";
 import { Grid2 } from "@/components/Grid2";

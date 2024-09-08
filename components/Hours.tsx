@@ -1,6 +1,6 @@
 import React from "react";
 import { LuClock9 } from "react-icons/lu";
-import { TextGenerateEffect } from "./ui/TextGenerate";
+// import { TextGenerateEffect } from "./ui/TextGenerate";
 import BorderButton from "./ui/BorderButton";
 
 const Hours = () => {
