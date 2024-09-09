@@ -28,7 +28,7 @@ const Hero = () => {
             Allset Appliance Repair, Appliance Professionals based in NY
           </p>
           <a href="#about">
-            <BorderButton title="Learn More About Us" position="left" />
+            {/* <BorderButton title="Learn More About Us" position="left" /> */}
           </a>
         </div>
       </div>
