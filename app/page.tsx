@@ -22,10 +22,10 @@ export default function Home() {
           ]}
         />
         <Hero />
+        <Goals />
         <Grid2 />
         {/* <Grid /> */}
         {/* <Goal /> */}
-        <Goals />
         <Hours />
         <Footer />
       </div>
