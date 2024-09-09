@@ -7,7 +7,7 @@ export function Grid2() {
   return (
     <section
       id="about"
-      className="h-[120vh] lg:-mt-72 mb-28 w-full relative flex flex-col flex-1"
+      className="h-[120vh] lg:-mt-72 2xl:-mt-36 mb-28 w-full relative flex flex-col flex-1"
     >
       <TextGenerateEffect
         className="text-center text-[40px] md:text-5xl lg:text-6xl"
