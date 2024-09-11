@@ -16,8 +16,8 @@ export default function Home() {
         <FloatingNav
           navItems={[
             { name: "Home", link: "/", icon: <FaHome /> },
-            { name: "Services", link: "#about", icon: <LuWrench /> },
             { name: "Goals", link: "#goals", icon: <LuGoal /> },
+            { name: "Services", link: "#about", icon: <LuWrench /> },
             { name: "Hours/Contact", link: "#hours", icon: <LuPhone /> },
           ]}
         />

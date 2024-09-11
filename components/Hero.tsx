@@ -1,7 +1,7 @@
 import React from "react";
 // import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerate";
-// import BorderButton from "./ui/BorderButton";
+import BorderButton from "./ui/BorderButton";
 
 const Hero = () => {
   return (
@@ -27,8 +27,8 @@ const Hero = () => {
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Allset Appliance Repair, Appliance Professionals based in NY
           </p>
-          <a href="#about">
-            {/* <BorderButton title="Learn More About Us" position="left" /> */}
+          <a href="tel:9148173479">
+            <BorderButton title="Call Us Now!" position="left" />
           </a>
         </div>
       </div>

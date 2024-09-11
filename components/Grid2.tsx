@@ -27,17 +27,13 @@ const SkeletonOne = () => {
       <p className="font-bold md:text-4xl text-xl text-white">Stove Repair</p>
       <p className="font-normal text-base text-white"></p>
       <p className="font-normal text-base my-4 max-w-lg text-neutral-200">
-        At Global Solutions Appliance Repair, we understand that a faulty stove
-        can disrupt the flow of your daily life, making it difficult to prepare
-        meals for yourself and your loved ones. We offer comprehensive stove
-        repair services that cater to all stove types, brands, and models.
-      </p>
-      <p className="font-normal text-base my-4 max-w-lg text-neutral-200">
-        Whether it’s a minor component repair or a complex circuitry issue, our
-        certified technicians are well-equipped to tackle any stove repair need.
-        By conducting a thorough diagnostic procedure, we can accurately
-        identify the underlying problem and implement the most effective repair
-        strategy, restoring your stove to optimum functionality.
+        A malfunctioning stove can disrupt your cooking plans and daily meals.
+        At Allset Appliance Repair, we offer comprehensive stove repair services
+        to address issues like uneven heating, faulty burners, ignition
+        problems, or electrical malfunctions. Our technicians are experienced in
+        repairing all major brands, ensuring that your stove is safe and
+        reliable. We are committed to providing you with efficient service so
+        you can get back to cooking your favorite dishes without worry.
       </p>
     </div>
   );
@@ -51,11 +47,13 @@ const SkeletonTwo = () => {
       </p>
       <p className="font-normal text-base text-white"></p>
       <p className="font-normal text-base my-4 max-w-lg text-neutral-200">
-        Many people hate hand-washing dishes. They invest in dishwashers to make
-        washing dishes faster and easier. Keeping the dishwasher in good
-        condition and running smoothly can save time and energy. It can also
-        extend the life of the dishwasher. Therefore, it is essential to be
-        aware of the signs that a dishwasher needs repair.
+        When your dishwasher isn't cleaning properly, leaking, or showing error
+        codes, Allset Appliance Repair is here to help. Our expert technicians
+        are trained to troubleshoot and repair a wide range of dishwasher
+        problems, restoring your appliance to peak performance. We understand
+        the importance of a well-functioning dishwasher in your daily routine
+        and strive to offer timely, reliable, and affordable repair services
+        that save you from the hassle of hand-washing dishes.
       </p>
     </div>
   );
@@ -68,11 +66,13 @@ const SkeletonThree = () => {
       </p>
       <p className="font-normal text-base text-white"></p>
       <p className="font-normal text-base my-4 max-w-lg text-neutral-200">
-        Washing machines make the lives of many people easier. They make doing
-        laundry easier. So, washing machines can save time and energy. However,
-        the malfunctioning of washing machines is a major inconvenience to many
-        people. Unfortunately, many people do not have the knowledge, skills,
-        and tools to do washing machine repairs on their own.
+        At Allset Appliance Repair, we specialize in washer repair services that
+        get your laundry routine back on track. Whether your washer is leaking,
+        not spinning, making strange noises, or refusing to start, our skilled
+        technicians have the expertise to diagnose and fix the problem
+        efficiently. We handle all major brands and models, ensuring your washer
+        operates smoothly and effectively. With our reliable and quick service,
+        we aim to minimize any disruption to your day.
       </p>
     </div>
   );
@@ -83,20 +83,13 @@ const SkeletonFour = () => {
       <p className="font-bold md:text-4xl text-xl text-white">Dryer Repair</p>
       <p className="font-normal text-base text-white"></p>
       <p className="font-normal text-base my-4 max-w-lg text-neutral-200">
-        Choosing a reliable dryer repair service in NYC isn’t an easy task.
-        There are dozens of dryer repair companies operating in the area, but
-        all of them are not created equal. Your research is crucial to picking
-        the right service provider for the job. The internet is a great place to
-        start your research and find a suitable company for your project. Look
-        for a service provider with a good reputation and expertise in the
-        repair project that you require. They should have the right tools and
-        equipment to do a perfect job.
-      </p>
-      <p className="font-normal text-base my-4 max-w-lg text-neutral-200">
-        If you are looking for a reputable and experienced dryer repair company
-        in NYC, you don’t have to look further than Global Solutions Appliance
-        Repair. We are your trusted partner in appliance repairs. Call Global
-        Solutions Appliance Repair today for all of your appliance repair needs.
+        A malfunctioning dryer can be a major inconvenience, and that's where
+        Allset Appliance Repair comes in. Our team is equipped to handle all
+        types of dryer issues, from inadequate heating and excessive noise to
+        failure to start or tumbling problems. We use high-quality parts and the
+        latest repair techniques to ensure your dryer is running safely and
+        efficiently, helping you avoid costly replacements and ensuring your
+        clothes are dried properly every time.
       </p>
     </div>
   );
@@ -110,13 +103,14 @@ const SkeletonFive = () => {
       </p>
       <p className="font-normal text-base text-white"></p>
       <p className="font-normal text-base my-4 max-w-lg text-neutral-200">
-        Refrigerators are necessary appliances for every household serving to
-        keep our meals fresh and provide us with chilled beverages on hot days.
-        Proper maintenance is paramount to ensure its optimal functionality over
-        time. In this guide, we will cover all the steps you need to maximize
-        the performance and longevity of your refrigerator – including
-        temperature settings, cleaning techniques, organization tips, and
-        regular maintenance.
+        A faulty refrigerator can lead to spoiled food and costly waste. At
+        Allset Appliance Repair, we offer prompt and effective refrigerator
+        repair services to keep your food fresh and your appliance running
+        efficiently. Our technicians are well-versed in diagnosing and fixing
+        issues such as cooling problems, leaks, strange noises, and
+        malfunctioning ice makers. With our reliable repair solutions, we aim to
+        extend the lifespan of your refrigerator and help you avoid the expense
+        of a replacement.
       </p>
     </div>
   );
@@ -128,14 +122,13 @@ const SkeletonSix = () => {
       <p className="font-bold md:text-4xl text-xl text-white">Oven Repair</p>
       <p className="font-normal text-base text-white"></p>
       <p className="font-normal text-base my-4 max-w-lg text-neutral-200">
-        The oven is an indispensable kitchen appliance that plays a vital role
-        in making those hearty meals for you and your loved ones. However, even
-        the most advanced and reliable ovens experience issues that hinder their
-        performance. Most of these problems can be easily fixed when addressed
-        early, but overlooking them only leads to further complications down the
-        line, some of which might see you making a new purchase altogether. But
-        what are these issues you should be aware of? This post will look at the
-        telltale signs your oven needs repair.
+        Whether your oven is not heating up properly, has a broken door, or is
+        displaying error codes, our team at Allset Appliance Repair has you
+        covered. We provide professional oven repair services that address a
+        range of problems to get your appliance functioning as it should. With
+        our attention to detail and dedication to quality, we aim to restore
+        your oven to optimal condition, ensuring even cooking results and a safe
+        cooking environment for your family.
       </p>
     </div>
   );
@@ -146,8 +139,7 @@ const cards = [
     id: 1,
     content: <SkeletonOne />,
     className: "md:col-span-2",
-    thumbnail:
-      "https://5.imimg.com/data5/SELLER/Default/2023/10/349567014/EG/PO/AP/33864707/bosch-hob-stove-repairing-service.png",
+    thumbnail: "/stove-repair2.jpeg",
   },
   {
     id: 2,
@@ -160,28 +152,24 @@ const cards = [
     id: 3,
     content: <SkeletonThree />,
     className: "col-span-1",
-    thumbnail:
-      "https://www.capitanappliance.com/wp-content/uploads/2023/01/g9e2BwkAVS6touFGLqCCap7df6DguSwj1673541070.jpg",
+    thumbnail: "washer-repair2.jpeg",
   },
   {
     id: 4,
     content: <SkeletonFour />,
     className: "md:col-span-2",
-    thumbnail:
-      "https://p7u2b8q4.rocketcdn.me/wp-content/uploads/2022/05/dryer-repair.webp",
+    thumbnail: "dryer-repair.jpeg",
   },
   {
     id: 5,
     content: <SkeletonFive />,
     className: "md:col-span-2",
-    thumbnail:
-      "https://aggielandappliancerepair.com/wp-content/uploads/fridge1.jpg",
+    thumbnail: "refrigerator-repair.jpeg",
   },
   {
     id: 6,
     content: <SkeletonSix />,
     className: "col-span-1",
-    thumbnail:
-      "https://www.sickappliances.com/wp-content/uploads/2022/01/ranges-and-oven-repair.jpeg",
+    thumbnail: "oven-repair.jpeg",
   },
 ];
