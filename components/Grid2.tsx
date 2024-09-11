@@ -47,13 +47,13 @@ const SkeletonTwo = () => {
       </p>
       <p className="font-normal text-base text-white"></p>
       <p className="font-normal text-base my-4 max-w-lg text-neutral-200">
-        When your dishwasher isn't cleaning properly, leaking, or showing error
-        codes, Allset Appliance Repair is here to help. Our expert technicians
-        are trained to troubleshoot and repair a wide range of dishwasher
-        problems, restoring your appliance to peak performance. We understand
-        the importance of a well-functioning dishwasher in your daily routine
-        and strive to offer timely, reliable, and affordable repair services
-        that save you from the hassle of hand-washing dishes.
+        When your dishwasher isn&apos;t cleaning properly, leaking, or showing
+        error codes, Allset Appliance Repair is here to help. Our expert
+        technicians are trained to troubleshoot and repair a wide range of
+        dishwasher problems, restoring your appliance to peak performance. We
+        understand the importance of a well-functioning dishwasher in your daily
+        routine and strive to offer timely, reliable, and affordable repair
+        services that save you from the hassle of hand-washing dishes.
       </p>
     </div>
   );
@@ -83,11 +83,11 @@ const SkeletonFour = () => {
       <p className="font-bold md:text-4xl text-xl text-white">Dryer Repair</p>
       <p className="font-normal text-base text-white"></p>
       <p className="font-normal text-base my-4 max-w-lg text-neutral-200">
-        A malfunctioning dryer can be a major inconvenience, and that's where
-        Allset Appliance Repair comes in. Our team is equipped to handle all
-        types of dryer issues, from inadequate heating and excessive noise to
-        failure to start or tumbling problems. We use high-quality parts and the
-        latest repair techniques to ensure your dryer is running safely and
+        A malfunctioning dryer can be a major inconvenience, and that&apos;s
+        where Allset Appliance Repair comes in. Our team is equipped to handle
+        all types of dryer issues, from inadequate heating and excessive noise
+        to failure to start or tumbling problems. We use high-quality parts and
+        the latest repair techniques to ensure your dryer is running safely and
         efficiently, helping you avoid costly replacements and ensuring your
         clothes are dried properly every time.
       </p>

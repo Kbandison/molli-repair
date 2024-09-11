@@ -1,7 +1,6 @@
 import React from "react";
 import { socialMedia } from "@/data";
 import Image from "next/image";
-import { footer } from "framer-motion/client";
 // import { ImFacebook } from "react-icons/im";
 
 const Footer = () => {
