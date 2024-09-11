@@ -18,7 +18,7 @@ export default function Home() {
             { name: "Home", link: "/", icon: <FaHome /> },
             { name: "Goals", link: "#goals", icon: <LuGoal /> },
             { name: "Services", link: "#about", icon: <LuWrench /> },
-            { name: "Hours/Contact", link: "#hours", icon: <LuPhone /> },
+            { name: "Hours/Contact", link: "#contact", icon: <LuPhone /> },
           ]}
         />
         <Hero />

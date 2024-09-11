@@ -5,7 +5,7 @@ import Image from "next/image";
 
 const Footer = () => {
   return (
-    <footer className="w-full pb-10 md:mb-5">
+    <footer className="w-full pb-10 md:mb-5" id="contact">
       <div className="flex  md:justify-between justify-center items-center md:flex-row flex-col">
         <p className="md:text-base text-sm md:font-normal font-light">
           Copyright © 2024 Allset Appliance Repair
